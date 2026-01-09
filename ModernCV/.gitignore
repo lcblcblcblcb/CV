@@ -1,0 +1,14 @@
+
+# LaTeX #
+#########
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lot
+*.lof
+*.synctex.gz
+*.pdf
+!cv.pdf

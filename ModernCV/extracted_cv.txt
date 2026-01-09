@@ -1,0 +1,276 @@
+BACH CHI LE 
+
+Bethlehem, PA, 18015 • (484) 966-1766 • lechibachh@gmail.com 
+
+  Bach Chi Le | Page 1 
+
+EDUCATION   
+
+Lehigh University Bethlehem, PA 
+
+Master of Science in Financial Engineering Aug 2023 – May 2025 
+
+GPA: 3.93/4.0 
+
+ 
+
+University of Melbourne Melbourne, AU 
+
+Bachelor of Commerce in Finance and Economics Aug 2020 – Jul 2023 
+
+Grade: H1 – First Class Honors 
+
+ 
+
+AWARDS 
+
+Graduate Business Life Leadership Award, Lehigh University 2024 
+
+Center for Financial Services Research Fellowship, Lehigh University 2024 
+
+Director’s Scholarship, Lehigh University 2023 
+
+Melbourne International Undergraduate Scholarship, University of Melbourne 2022 
+
+Bachelor of Commerce Global Scholarship, University of Melbourne 2020 
+
+ 
+
+PUBLICATIONS    
+
+Preprints 
+
+Le, B. C., Dao, T. V., Nguyen, B. T., & Chu, H. T. M. Tight Robustness Certificates and Wasserstein 
+
+Distributional Attacks for Deep Neural Networks. arXiv preprint arXiv:2510.10000. 
+
+ 
+
+Working Papers 
+
+Moore, O. A., Mchiri, A., Grady-Moreno, A., & Le, B. C. Identified but Dissatisfied: The Paradoxical 
+
+Effects of Mixed Team Membership Configurations. Manuscript in preparation. 
+
+ 
+
+Moore, O. A., Gibson, H. O., Henderson, S. J., & Le, B. C. Modeling the Effects of Multiple Team 
+
+Membership on Project Delay: The Role of Expertise Diversity and HR Policy. Manuscript in preparation. 
+
+ 
+
+Research in Progress 
+
+Chu, H. T. M., Nguyen, B. T., & Le, B. C. Wasserstein Distributional Robustness in Deep Learning: 
+
+Lipschitz-Based Guarantees for Transformers.  
+
+ 
+
+Le, B. C., & Nguyen, L. M. Ensemble Modeling for Time Series Forecasting via Adaptive 
+
+Distributionally Robust Optimization. 
+
+ 
+
+Lamadrid, A. J., & Le, B. C. Risk Management in Deregulated Commodity Markets: A Comparative 
+
+Study of Stochastic, Robust, and Info-Gap Optimization Frameworks. 
+
+ 
+
+Tang, S., & Le, B. C. On the Optimality of Balanced Pemantle’s Min-Plus Binary Trees: A Probabilistic 
+
+and Inductive Approach. 
+
+ 
+
+PRESENTATIONS 
+
+Moore, O. A., Mchiri, A., Grady-Moreno, A., & Le, B. C. (2025, January). Mixed versus Traditional 
+
+Multiple Team Membership Configurations: Understanding Team Satisfaction through the Mediating 
+
+Role of Identity and Moderating Effect of Intra-Team Conflict. Presented at the INGRoup 2025 Midyear 
+
+Conference, Virtual. 
+
+ 
+
+RESEARCH EXPERIENCE    
+
+VinUniversity Hanoi, VN 
+
+Engineering & Computer Science Department June 2025 – Present 
+
+mailto:flast@nd.edu
+
+
+Bach Chi Le | Page 2 
+
+PI: Prof. Hong T. M. Chu 
+
+• Conduct comprehensive literature research and summarize relevant findings to support the 
+
+research objectives, maintain an organized database of literature and references. 
+
+• Conduct advanced academic research and scientific computations with a focus on sensitivity 
+
+analysis, designing algorithms and stabilizing networks. 
+
+• Assist teaching optimization topics in undergraduate course. 
+
+ 
+
+Lehigh University Bethlehem, PA 
+
+Industrial and Systems Engineering Department Sep 2024 – May 2025 
+
+PI: Prof. Lam M. Nguyen 
+
+• Develop an innovative Ensemble Modeling for Time Series Forecasting using the Adaptive 
+
+Distributionally Robust Optimization (ADRO) framework, aimed at optimizing ensemble model 
+
+weights to enhance forecast accuracy in dynamic environments. 
+
+• Conduct extensive theoretical formulation and empirical testing to establish the effectiveness of 
+
+the ADRO framework in time series forecasting, with an emphasis on linear tractability and 
+
+robust performance in uncertain conditions. 
+
+• Provide mathematical proofs to derive a tractable robust counterpart for the original ADRO 
+
+formulation, ensuring both theoretical soundness and practical applicability of the model. 
+
+ 
+
+Economics Department Apr 2024 – May 2025 
+
+PI: Prof. Alberto J. Lamadrid 
+
+• Conduct research on risk management strategies in deregulated commodity markets, starting with 
+
+deterministic models and progressively introducing uncertainty in product quantities. 
+
+• Implement advanced optimization models, including Stochastic Optimization, Robust 
+
+Optimization, and Information Gap Decision Theory frameworks, to address risk aversion. 
+
+• Perform mathematical and numerical analysis to compare the effectiveness of different models, 
+
+providing insights for market participants to enhance decision-making under uncertainty. 
+
+ 
+
+Mathematics Department 
+
+PI: Prof. Si Tang Jan 2024 – May 2025 
+
+• Investigate the optimality of balanced Pemantle’s Min-Plus binary trees by proving their highest 
+
+expected values for the root node compared to trees of equal size, using mathematical induction 
+
+and computational verification to advance tree optimization methodologies. 
+
+• Employ R to compute probability density functions and expected values, validating hypotheses 
+
+crucial for proving the conjecture about the expected value of Pemantle’s Min-Plus binary trees. 
+
+• Develop induction hypotheses from computational insights to demonstrate that strategically 
+
+adding leaves according to defined rules results in optimal and balanced tree structures. 
+
+ 
+
+Management Department Nov 2023 – May 2025 
+
+PI: Prof. Ozias A. Moore 
+
+• Engineer datasets by embedding Level 2 variables into a Level 1 dataset using Group Mean 
+
+Centering and Grand Mean Centering techniques, facilitating comprehensive analysis for Andrew 
+
+Hayes’ PROCESS model 4 to examine the relationship between Leader's ambivalence and 
+
+qualities like Openness, Listening, Intellectual Curiosity, and Constructive Voice. 
+
+• Conduct Monte Carlo simulations to bootstrap data and assess mediation effects in multilevel 
+
+datasets, ensuring statistical robustness and enhancing insights into complex relationships. 
+
+• Support research on Team Configuration (Multiple Team Membership) using Andrew Hayes’ 
+
+PROCESS Model 7, analyzing multi-categorical independent variables and contributing to 
+
+comprehensive literature reviews on statistical methodologies for research presentations. 
+
+ 
+
+
+
+Bach Chi Le | Page 3 
+
+PROFESSIONAL EXPERIENCE  
+
+Stout Risius Ross New York, NY 
+
+Complex Securities & Financial Instruments Intern Jun 2024 – Aug 2024 
+
+• Applied option pricing models and conducted Monte Carlo simulations to accurately value 
+
+complex derivatives, enhancing insights into financial risk management in volatile markets. 
+
+• Conducted real options analysis to assess the value of investments in commodities and early-stage 
+
+companies, providing strategic insights for decision-making under uncertainty. 
+
+• Performed portfolio valuations and credit rating regressions using Excel, VBA, and R, 
+
+contributing to effective portfolio management strategies and risk assessment. 
+
+ 
+
+Outlier AI San Francisco, CA 
+
+Mathematics Consultant May 2024 – Apr 2025 
+
+• Create and refine training prompts and solutions across diverse mathematical fields to train Large 
+
+Language Models (LLMs), ensure comprehensive coverage of algebra, geometry, precalculus, 
+
+linear algebra, complex analysis, and combinatorics. 
+
+• Formulate innovative mathematical problems and engage in rigorous math-focused conversations 
+
+to challenge and refine AI model capabilities, enhancing its accuracy and adaptability. 
+
+• Evaluate and rate AI-generated responses to mathematical prompts based on rigorous standards of 
+
+accuracy and precision, collaborating with STEM professionals to refine response generation 
+
+strategies and improve overall model performance. 
+
+ 
+
+WorldQuant Hanoi, VN 
+
+Research Consultant Apr 2023 – Apr 2024 
+
+• Developed and optimized alpha strategies for USA and China markets using technical indicators, 
+
+fundamental ratios, and news sentiments on the WorldQuant BRAIN platform. 
+
+• Conducted extensive backtesting over a 10-year period to validate performance and refine 
+
+strategies, achieving competitive returns and Sharpe ratios. 
+
+ 
+
+TECHNICAL SKILLS 
+
+Programming: Python, R, SPSS, Latex, Pine Script, Excel VBA, SQL, C++, AMPL, MATLAB, Gurobi 
+
+Software: SAS, Stata, VS Code, PyCharm, RStudio, MySQL, Microsoft Office, GitHub, QuantConnect

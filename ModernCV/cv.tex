@@ -1,0 +1,117 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% moderncv themes
+\moderncvstyle{classic}
+\moderncvcolor{blue}
+\moderncvicons{letters} % FIX: Use letters (T, M, E) instead of icons to avoid missing fontawesome font
+\renewcommand{\labelitemi}{\textbullet} % WORKAROUND: Use standard bullet to avoid missing fontawesome font
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+\usepackage{lmodern} % FIX: Use scalable fonts to avoid microtype expansion errors
+
+% personal data
+\name{Bach Chi}{Le}
+\title{Applied Mathematics PhD Candidate} % Inferred title
+\address{Bethlehem, PA, 18015}{}{}
+\phone[mobile]{(484) 966-1766}
+\email{lechibachh@gmail.com}
+% \homepage{www.johndoe.com}
+% \social[linkedin]{john.doe}
+
+\begin{document}
+\makecvtitle
+
+\section{Education}
+\cventry{Aug 2023--May 2025}{Master of Science in Financial Engineering}{Lehigh University}{Bethlehem, PA}{\textit{GPA: 3.93/4.0}}{}
+\cventry{Aug 2020--Jul 2023}{Bachelor of Commerce in Finance and Economics}{University of Melbourne}{Melbourne, AU}{\textit{H1 -- First Class Honors}}{}
+
+\section{Research Interests}
+\cvitem{}{Financial Engineering, Optimization, Time Series Forecasting, Deep Learning, Robustness, Machine Learning in Finance}
+
+\section{Awards and Honors}
+\cvitem{2024}{Graduate Business Life Leadership Award, Lehigh University}
+\cvitem{2024}{Center for Financial Services Research Fellowship, Lehigh University}
+\cvitem{2023}{Director’s Scholarship, Lehigh University}
+\cvitem{2022}{Melbourne International Undergraduate Scholarship, University of Melbourne}
+\cvitem{2020}{Bachelor of Commerce Global Scholarship, University of Melbourne}
+
+\section{Publications}
+\subsection{Preprints}
+\cvitem{2025}{Le, B. C., Dao, T. V., Nguyen, B. T., \& Chu, H. T. M. \textit{Tight Robustness Certificates and Wasserstein Distributional Attacks for Deep Neural Networks}. arXiv preprint arXiv:2510.10000.}
+
+\subsection{Working Papers}
+\cvitem{}{Moore, O. A., Mchiri, A., Grady-Moreno, A., \& Le, B. C. \textit{Identified but Dissatisfied: The Paradoxical Effects of Mixed Team Membership Configurations}. Manuscript in preparation.}
+\cvitem{}{Moore, O. A., Gibson, H. O., Henderson, S. J., \& Le, B. C. \textit{Modeling the Effects of Multiple Team Membership on Project Delay: The Role of Expertise Diversity and HR Policy}. Manuscript in preparation.}
+
+\subsection{Research in Progress}
+\cvitem{}{Chu, H. T. M., Nguyen, B. T., \& Le, B. C. \textit{Wasserstein Distributional Robustness in Deep Learning: Lipschitz-Based Guarantees for Transformers}.}
+\cvitem{}{Le, B. C., \& Nguyen, L. M. \textit{Ensemble Modeling for Time Series Forecasting via Adaptive Distributionally Robust Optimization}.}
+\cvitem{}{Lamadrid, A. J., \& Le, B. C. \textit{Risk Management in Deregulated Commodity Markets: A Comparative Study of Stochastic, Robust, and Info-Gap Optimization Frameworks}.}
+\cvitem{}{Tang, S., \& Le, B. C. \textit{On the Optimality of Balanced Pemantle’s Min-Plus Binary Trees: A Probabilistic and Inductive Approach}.}
+
+\subsection{Presentations}
+\cvitem{Jan 2025}{Moore, O. A., Mchiri, A., Grady-Moreno, A., \& Le, B. C. \textit{Mixed versus Traditional Multiple Team Membership Configurations: Understanding Team Satisfaction through the Mediating Role of Identity and Moderating Effect of Intra-Team Conflict}. Presented at the INGRoup 2025 Midyear Conference, Virtual.}
+
+\section{Research Experience}
+\cventry{June 2025--Present}{Research Assistant}{VinUniversity}{Hanoi, VN}{}{PI: Prof. Hong T. M. Chu
+\begin{itemize}
+\item Conduct comprehensive literature research and summarize relevant findings to support the research objectives, maintain an organized database of literature and references.
+\item Conduct advanced academic research and scientific computations with a focus on sensitivity analysis, designing algorithms and stabilizing networks.
+\item Assist teaching optimization topics in undergraduate course.
+\end{itemize}}
+
+\cventry{Sep 2024--May 2025}{Research Assistant}{Lehigh University, Industrial and Systems Engineering}{Bethlehem, PA}{}{PI: Prof. Lam M. Nguyen
+\begin{itemize}
+\item Develop an innovative Ensemble Modeling for Time Series Forecasting using the Adaptive Distributionally Robust Optimization (ADRO) framework.
+\item Conduct extensive theoretical formulation and empirical testing to establish the effectiveness of the ADRO framework.
+\item Provide mathematical proofs to derive a tractable robust counterpart for the original ADRO formulation.
+\end{itemize}}
+
+\cventry{Apr 2024--May 2025}{Research Assistant}{Lehigh University, Economics Department}{Bethlehem, PA}{}{PI: Prof. Alberto J. Lamadrid
+\begin{itemize}
+\item Conduct research on risk management strategies in deregulated commodity markets.
+\item Implement advanced optimization models, including Stochastic Optimization, Robust Optimization, and Info-Gap Decision Theory frameworks.
+\item Perform mathematical and numerical analysis to compare the effectiveness of different models.
+\end{itemize}}
+
+\cventry{Jan 2024--May 2025}{Research Assistant}{Lehigh University, Mathematics Department}{Bethlehem, PA}{}{PI: Prof. Si Tang
+\begin{itemize}
+\item Investigate the optimality of balanced Pemantle’s Min-Plus binary trees.
+\item Employ R to compute probability density functions and expected values.
+\item Develop induction hypotheses from computational insights.
+\end{itemize}}
+
+\cventry{Nov 2023--May 2025}{Research Assistant}{Lehigh University, Management Department}{Bethlehem, PA}{}{PI: Prof. Ozias A. Moore
+\begin{itemize}
+\item Engineer datasets by embedding Level 2 variables into a Level 1 dataset using Group Mean Centering and Grand Mean Centering techniques.
+\item Conduct Monte Carlo simulations to bootstrap data and assess mediation effects.
+\item Support research on Team Configuration (Multiple Team Membership) using Andrew Hayes’ PROCESS Model 7.
+\end{itemize}}
+
+\section{Professional Experience}
+\cventry{Jun 2024--Aug 2024}{Complex Securities \& Financial Instruments Intern}{Stout Risius Ross}{New York, NY}{}{
+\begin{itemize}
+\item Applied option pricing models and conducted Monte Carlo simulations to accurately value complex derivatives.
+\item Conducted real options analysis to assess the value of investments in commodities and low-stage companies.
+\item Performed portfolio valuations and credit rating regressions using Excel, VBA, and R.
+\end{itemize}}
+
+\cventry{May 2024--Apr 2025}{Mathematics Consultant}{Outlier AI}{San Francisco, CA}{}{
+\begin{itemize}
+\item Create and refine training prompts and solutions across diverse mathematical fields to train Large Language Models (LLMs).
+\item Formulate innovative mathematical problems and engage in rigorous math-focused conversations.
+\item Evaluate and rate AI-generated responses to mathematical prompts based on rigorous standards.
+\end{itemize}}
+
+\cventry{Apr 2023--Apr 2024}{Research Consultant}{WorldQuant}{Hanoi, VN}{}{
+\begin{itemize}
+\item Developed and optimized alpha strategies for USA and China markets using technical indicators.
+\item Conducted extensive backtesting over a 10-year period to validate performance.
+\end{itemize}}
+
+\section{Technical Skills}
+\cvitem{Programming}{Python, R, SPSS, Latex, Pine Script, Excel VBA, SQL, C++, AMPL, MATLAB, Gurobi}
+\cvitem{Software}{SAS, Stata, VS Code, PyCharm, RStudio, MySQL, Microsoft Office, GitHub, QuantConnect}
+
+\end{document}
